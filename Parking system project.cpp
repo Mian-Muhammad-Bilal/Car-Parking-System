@@ -92,7 +92,6 @@ int main()
 		userPassword.push_back(ch) ;
 	 	cout<<'X' ;
 		}
-//		cin >> userPassword;
 		
 		}
 		else
