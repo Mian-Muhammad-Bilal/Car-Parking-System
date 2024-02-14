@@ -1,4 +1,4 @@
-# Car Parking System by Bilal
+# Car Parking System
 
 ## Overview
 Welcome to the Car Parking System, crafted by Bilal. This C++ program efficiently manages parking, tracking vehicle arrivals and departures, calculating fees, and maintaining comprehensive records.
@@ -17,4 +17,4 @@ Welcome to the Car Parking System, crafted by Bilal. This C++ program efficientl
 4. **Edit and Delete:** Modify values or delete the entire record as needed.
 5. **Exit:** Close the program when finished.
 
-Explore the Car Parking System by Bilal for effective and user-friendly parking management!
+Explore the Car Parking System for effective and user-friendly parking management!
