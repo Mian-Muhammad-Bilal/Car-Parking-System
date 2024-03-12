@@ -77,7 +77,7 @@ int main()
 
 		
 
-		if (userName == "Biologist0.5") //Biologist0.5 is username...
+		if (userName == "admin") //admin is username...
 		{
 			
 	int ch ;
@@ -110,7 +110,7 @@ int main()
 		}
 		
 		
-		 if (userPassword == "0055") //username...0055 is the password
+		 if (userPassword == "admin123") //admin123 is the password
 		{
 			cout << "\n\t\t\t\t\t  Welcome BIOLOGIST!\n";
 			break;
